@@ -17,3 +17,8 @@
  - Purpose - To stop the single EC2 instance
  - Prerequisite - AWS CLI must been installed and working. instanceId.sh shoudl be present in current directory.
  - Condition - At present it support only single EC2 Instance, getting multiple EC2 Instance Ids is in future scope.
+
+### [ip.sh](/ip.sh)
+ - Purpose - To give the public IP of running single EC2 instance
+ - Prerequisite - AWS CLI must been installed and working. instanceId.sh shoudl be present in current directory.
+ - Condition - At present it support only single EC2 Instance, getting multiple EC2 Instance Ids is in future scope.
