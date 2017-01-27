@@ -1,6 +1,8 @@
 # AWS Utility Scripts
 ## To help for automating long aws commands into small utilities.
 
+ Each script can be started as `$sh <scriptname>.sh`
+
 ### [instanceId.sh](/instanceId.sh) 
  - Purpose - To get the Instance Id of the EC2 Instance
  - Prerequisite - AWS CLI must been installed and working.
