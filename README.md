@@ -1,5 +1,5 @@
 # AWS Utility Scripts
-## To help for automating long aws commands into small utilities.
+## To automate long aws commands into small utilities.
 
  Each script can be started as `$sh <scriptname>.sh`
 
